@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Learn',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <strong>Dappstep Docs</strong> include many practical examples that will help you to understand to implement different
+        aspects of dapp functionality on Ergo Platform
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Bootstrap your project',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <strong>Dappstep Play</strong> built as stand alone mini dApp, easily adjustable for your own need.
+        Edit it to get closer to functionality you need and copy to your own project.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Built on web technologies',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We use <strong>Javascript</strong> exclusively to allow wide audience of web developers jump into dApp development on Ergo Platform.
+        Most things can be built with FE javascript + serverless lambda with nodejs runtime
       </>
     ),
   },
