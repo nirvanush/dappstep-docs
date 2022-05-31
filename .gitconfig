@@ -1,0 +1,13 @@
+[user]
+	name = nirvanush
+	email = nirvanushergo@gmail.com
+[push]
+	default = matching
+[alias]
+	st = status
+	ch = checkout
+[core]
+	editor = vim
+	sshCommand = “ssh -i ~/.ssh/nirvanushergo@gmail.com
+[github]
+	user = nirvanush
